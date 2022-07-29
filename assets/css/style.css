@@ -1,0 +1,59 @@
+:root {
+  --body-bg-color: #FAF7FD;
+}
+
+section, img, p, a {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  font-family: Poppins;
+}
+
+section {
+  text-align: center;
+}
+
+#imagempessoa {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: 3px solid rgb(11, 177, 219);
+  border-radius: 100px;
+  padding: 5px;
+}
+
+#instagram {
+  color: rgb(17, 169, 230);
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+section .links {
+  text-align: center;
+}
+
+.links {
+  color: rgba(17, 169, 230);
+  width: 300px;
+  display: inline-block;
+  height: 49px;
+  border: 3px solid rgba(135, 206, 235);
+  border-radius: 5px;
+  margin-top: 15px;
+  font-weight: 600;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.link {
+  padding: 10px;
+}
+
+.linkImagens {
+  margin-top: 35px;
+}
+
+.linkImagens img {
+  margin: 0 10px;
+}
