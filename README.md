@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/feedback-widget?color=E51C44">
-
- <img src="https://img.shields.io/static/v1?label=NLW&message=07&color=E51C44&labelColor=0A1033" alt="NLW 07" />
+  <img alt="License" src="[https://img.shields.io/github/license/silasfmartins/feedback-widget?color=E51C44](https://img.shields.io/github/license/silasfmartins/social-tree)">
 </p>
 
 
