@@ -33,14 +33,14 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 👨‍💻 Contribuir / Contributing
 
-Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/feedback-widget/blob/master/Contributing.md)
+Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/social-tree/blob/master/Contributing.md)
 
 ## 💿 Histórico / History
 
-Consulte [Releases](https://github.com/silasfmartins/feedback-widget/releases) para ter um changelog completo.
+Consulte [Releases](https://github.com/silasfmartins/social-tree/releases) para ter um changelog completo.
 
 ## 📄 Licença do Projeto/License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/feedback-widget/blob/main/LICENSE) © Silas Martins para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/social-tree/blob/main/LICENSE) © Silas Martins para mais detalhes.
 
 <br />
