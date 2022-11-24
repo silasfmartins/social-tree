@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="License" src="[https://img.shields.io/github/license/silasfmartins/feedback-widget?color=E51C44](https://img.shields.io/github/license/silasfmartins/social-tree)">
+  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/social-tree">
 </p>
 
 
