@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="FeedbackWidget" height="80" title="Plant Manager" src="./image.png" />
+  <img alt="Social Tree" height="80" title="Plant Manager" src="./image.png" />
 </h1>
 
 <p align="center">
