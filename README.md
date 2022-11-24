@@ -8,7 +8,7 @@
 
 
 ## 💻 Projeto
-Aplicativo que simula um Feedback Widget.
+Aplicativo que dar acesso a algumas das minhas redes sociais.
 
 ## 🔃 Requisitos para utilizar
 
@@ -16,33 +16,12 @@ Aplicativo que simula um Feedback Widget.
 
 ## ✨ Tecnologias
 
--   [ x ] Typescript
--   [ x ] Prisma
--   [ x ] Vite
--   [ x ] React
--   [ x ] Popover
--   [ x ] Axios
--   [ x ] Tailwind
--   [ x ] Express
--   [ x ] JEST
-
+-   [ x ] HTML
+-   [ x ] CSS
 
 ## :hammer_and_wrench: Features 
 
--   [ ] O feedback pode ser um BUG, Ideia ou Outro;
--   [ ] É possível digitar um texto e tirar print da tela ao enviar o feedback;
--   [ ] É possível enviar novos feedbacks;
--   [ ] Tudo é armazenado em um banco de dados.
-
-
-## 📲 Executando o projeto
-
-Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
-Em seguida, inicie o projeto.
-
-```cl
-npm run dev
-```
+-   [ ] É possível acessar as minhas redes sociais por essa aplicação.
 
 ## 🆚 Versionamento / Versioning
 
@@ -50,7 +29,7 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível acessar a aplicação através da URL: https://feedback-widget-gold.vercel.app/ .
+É possível acessar a aplicação através da URL: https://silasfmartins.github.io/social-tree/ .
 
 ## 👨‍💻 Contribuir / Contributing
 
