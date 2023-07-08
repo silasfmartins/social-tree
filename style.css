@@ -5,6 +5,7 @@
   margin: 0;
   padding: 0;
   border: 0;
+  font-family: Poppins, 'sans-serif';
 }
 
 body {
@@ -70,13 +71,6 @@ body.light .links {
   color: black;
 }
 
-section, p, a {
-  text-decoration: none;
-  margin: 0;
-  padding: 0;
-  font-family: Poppins;
-}
-
 main {
   margin-top: 2rem;
 }
@@ -93,24 +87,36 @@ section {
   padding: 0.375rem;
 }
 
-section .links {
-  text-align: center;
-  border-radius: 8px;
-}
-
 .links {
   color: white;
   width: 18rem;
   display: flex;
   justify-content: center;
-  height: 3rem;
   border: 3px solid rgba(135, 206, 235);
   margin-top: 1rem;
   font-weight: 600;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 8px;
 }
 
 .link {
   padding: 0.625rem;
+}
+
+:root {
+  scrollbar-color: #8F8F8F #374151 ;
+  scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track{
+  background: #374151;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: #8F8F8F;
+  border-radius: 14px;
 }
